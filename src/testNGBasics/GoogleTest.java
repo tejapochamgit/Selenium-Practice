@@ -16,6 +16,7 @@ public class GoogleTest {
 	WebDriver driver;
 	@BeforeMethod
 	public void openApp(){
+		//comments by teja
 	
 		System.setProperty("webdriver.gecko.driver","D:/Tej/Test Automation/Downloads/geckodriver-v0.23.0-win32/geckodriver.exe");
 		driver = new FirefoxDriver();
