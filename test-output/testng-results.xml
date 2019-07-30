@@ -1,0 +1,77 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results skipped="0" failed="0" total="5" passed="5">
+  <reporter-output>
+  </reporter-output>
+  <suite name="Test Automation Suite" duration-ms="137548" started-at="2019-07-30T05:36:49Z" finished-at="2019-07-30T05:39:07Z">
+    <groups>
+      <group name="first">
+        <method signature="GoogleTest.checkLink()[pri:3, instance:testNGBasics.GoogleTest@c285f4]" name="checkLink" class="testNGBasics.GoogleTest"/>
+        <method signature="GoogleTest.checkSearch()[pri:4, instance:testNGBasics.GoogleTest@c285f4]" name="checkSearch" class="testNGBasics.GoogleTest"/>
+      </group> <!-- first -->
+    </groups>
+    <test name="Test" duration-ms="137548" started-at="2019-07-30T05:36:49Z" finished-at="2019-07-30T05:39:07Z">
+      <class name="testNGBasics.GoogleTest">
+        <test-method status="PASS" signature="openApp()[pri:0, instance:testNGBasics.GoogleTest@c285f4]" name="openApp" is-config="true" duration-ms="57328" started-at="2019-07-30T11:06:49Z" finished-at="2019-07-30T11:07:46Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- openApp -->
+        <test-method status="PASS" signature="checkLogo()[pri:1, instance:testNGBasics.GoogleTest@c285f4]" name="checkLogo" duration-ms="395" started-at="2019-07-30T11:07:46Z" finished-at="2019-07-30T11:07:47Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- checkLogo -->
+        <test-method status="PASS" signature="closeApp()[pri:0, instance:testNGBasics.GoogleTest@c285f4]" name="closeApp" is-config="true" duration-ms="3601" started-at="2019-07-30T11:07:47Z" finished-at="2019-07-30T11:07:50Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- closeApp -->
+        <test-method status="PASS" signature="openApp()[pri:0, instance:testNGBasics.GoogleTest@c285f4]" name="openApp" is-config="true" duration-ms="21270" started-at="2019-07-30T11:07:50Z" finished-at="2019-07-30T11:08:12Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- openApp -->
+        <test-method status="PASS" signature="checkTitle()[pri:2, instance:testNGBasics.GoogleTest@c285f4]" name="checkTitle" duration-ms="11" started-at="2019-07-30T11:08:12Z" finished-at="2019-07-30T11:08:12Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- checkTitle -->
+        <test-method status="PASS" signature="closeApp()[pri:0, instance:testNGBasics.GoogleTest@c285f4]" name="closeApp" is-config="true" duration-ms="2474" started-at="2019-07-30T11:08:12Z" finished-at="2019-07-30T11:08:14Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- closeApp -->
+        <test-method status="PASS" signature="openApp()[pri:0, instance:testNGBasics.GoogleTest@c285f4]" name="openApp" is-config="true" duration-ms="13888" started-at="2019-07-30T11:08:14Z" finished-at="2019-07-30T11:08:28Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- openApp -->
+        <test-method status="PASS" signature="checkLink()[pri:3, instance:testNGBasics.GoogleTest@c285f4]" name="checkLink" duration-ms="29" started-at="2019-07-30T11:08:28Z" finished-at="2019-07-30T11:08:28Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- checkLink -->
+        <test-method status="PASS" signature="closeApp()[pri:0, instance:testNGBasics.GoogleTest@c285f4]" name="closeApp" is-config="true" duration-ms="2511" started-at="2019-07-30T11:08:28Z" finished-at="2019-07-30T11:08:31Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- closeApp -->
+        <test-method status="PASS" signature="openApp()[pri:0, instance:testNGBasics.GoogleTest@c285f4]" name="openApp" is-config="true" duration-ms="14725" started-at="2019-07-30T11:08:31Z" finished-at="2019-07-30T11:08:45Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- openApp -->
+        <test-method status="PASS" signature="checkSearch()[pri:4, instance:testNGBasics.GoogleTest@c285f4]" name="checkSearch" duration-ms="1288" started-at="2019-07-30T11:08:45Z" finished-at="2019-07-30T11:08:47Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- checkSearch -->
+        <test-method status="PASS" signature="closeApp()[pri:0, instance:testNGBasics.GoogleTest@c285f4]" name="closeApp" is-config="true" duration-ms="2587" started-at="2019-07-30T11:08:47Z" finished-at="2019-07-30T11:08:49Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- closeApp -->
+        <test-method status="PASS" signature="openApp()[pri:0, instance:testNGBasics.GoogleTest@c285f4]" name="openApp" is-config="true" duration-ms="14237" started-at="2019-07-30T11:08:49Z" finished-at="2019-07-30T11:09:04Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- openApp -->
+        <test-method status="PASS" signature="checkSearch()[pri:4, instance:testNGBasics.GoogleTest@c285f4]" name="checkSearch" duration-ms="286" started-at="2019-07-30T11:09:04Z" finished-at="2019-07-30T11:09:04Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- checkSearch -->
+        <test-method status="PASS" signature="closeApp()[pri:0, instance:testNGBasics.GoogleTest@c285f4]" name="closeApp" is-config="true" duration-ms="2741" started-at="2019-07-30T11:09:04Z" finished-at="2019-07-30T11:09:07Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- closeApp -->
+      </class> <!-- testNGBasics.GoogleTest -->
+    </test> <!-- Test -->
+  </suite> <!-- Test Automation Suite -->
+</testng-results>
